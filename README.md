@@ -1,4 +1,4 @@
-#Flappy Fish!
+# Flappy Fish!
 
 Flappy Bird, but with a Fish!
 
