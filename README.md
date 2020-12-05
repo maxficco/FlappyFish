@@ -1,3 +1,8 @@
-# FlappyFish
-Flappy Fish!  A Flappy Bird Clone by Max Ficco.
-<img src="assets/screenshot1.png" style="text-align:left;">
+#Flappy Fish!
+
+Flappy Bird, but with a Fish!
+
+This game was made in python with pyame.
+
+<img src="https://github.com/mficco26/FlappyFish/blob/main/assets/screenshot2.png">
+<img src="https://github.com/mficco26/FlappyFish/blob/main/assets/screenshot1.png">
